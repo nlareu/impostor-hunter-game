@@ -1,0 +1,5 @@
+{
+  "name": "Caza del Impostor",
+  "description": "Un juego multijugador local donde los jugadores reciben una palabra secreta, pero uno es el Impostor.",
+  "requestFramePermissions": []
+}
